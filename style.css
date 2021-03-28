@@ -12,3 +12,6 @@ ul{
     display: table;
     margin: 0 auto;
 }
+.fichas{
+    list-style: none;
+}
