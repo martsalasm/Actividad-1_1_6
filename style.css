@@ -15,3 +15,7 @@ ul{
 .fichas{
     list-style: none;
 }
+.aInicio{
+    box-sizing: border-box;
+    float: right;
+}
