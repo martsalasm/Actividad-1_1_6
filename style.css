@@ -1,5 +1,10 @@
 body{
     text-align: center;
+    background-color: aquamarine;
+    background-image: url('https://i.redd.it/v37a2sz3cjq11.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #descripción{
     text-align: justify;
@@ -18,4 +23,47 @@ ul{
 .aInicio{
     box-sizing: border-box;
     float: right;
+}
+#foto_perro1{
+    float: inline-start;
+    border: 3px solid black;
+
+}
+#linkperro{
+    font-size: 20px;
+    padding: 3%;
+}
+#linkgato{
+    font-size: 20px;
+    padding: 3%;
+}
+#foto_gato1{
+    border: 3px solid black;
+}
+#lucifer_foto{
+    float: none;
+}
+#lucifer_desc{
+    align-items: center;
+}
+#tommy_foto{
+    border: 3px solid black;
+}
+#nina_cat_foto{
+    border: 3px solid black;
+}
+#lucifer{
+    border: 3px solid black;
+}
+#volver_inicio{
+    font-size: 25px;
+}
+#nninacat{
+    font-size: 25px;
+}
+#nlucifer{
+    font-size: 25px;
+}
+#ntommy{
+    font-size: 25px;
 }
