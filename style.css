@@ -2,9 +2,20 @@ body{
     text-align: center;
 }
 #descripción{
+    text-align: justify;
     font-family: Arial;
+    width: 30%;
+    box-sizing: border-box;
+    margin: auto;
 }
 ul{
     display: table;
     margin: 0 auto;
+}
+.fichas{
+    list-style: none;
+}
+.aInicio{
+    box-sizing: border-box;
+    float: right;
 }
