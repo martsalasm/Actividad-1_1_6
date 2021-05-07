@@ -17,9 +17,14 @@ ul{
     display: table;
     margin: 0 auto;
 }
+.estilolista{
+    list-style: none;
+}
 .fichas{
     list-style: none;
     text-align: justify;
+    background-color: rgba(0, 0, 0, 0.445);
+    width:500px;
 }
 .aInicio{
     box-sizing: border-box;
