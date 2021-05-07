@@ -24,46 +24,16 @@ ul{
     box-sizing: border-box;
     float: right;
 }
-#foto_perro1{
-    float: inline-start;
-    border: 3px solid black;
-
+.fotos{
+    width: 200px;
+    height: 150px;
+    text-align: center;
 }
-#linkperro{
-    font-size: 20px;
-    padding: 3%;
-}
-#linkgato{
-    font-size: 20px;
-    padding: 3%;
-}
-#foto_gato1{
-    border: 3px solid black;
-}
-#lucifer_foto{
-    float: none;
-}
-#lucifer_desc{
-    align-items: center;
-}
-#tommy_foto{
-    border: 3px solid black;
-}
-#nina_cat_foto{
-    border: 3px solid black;
-}
-#lucifer{
-    border: 3px solid black;
-}
-#volver_inicio{
+.texto{
+    margin-bottom: 10px;
     font-size: 25px;
-}
-#nninacat{
-    font-size: 25px;
-}
-#nlucifer{
-    font-size: 25px;
-}
-#ntommy{
-    font-size: 25px;
+    color: rgb(255, 255, 255);
+    outline-color: yellow;
+    background-color: rgba(0, 0, 0, 0.753);
+    width:inherit;
 }
