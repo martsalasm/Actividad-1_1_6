@@ -1,7 +1,6 @@
 body{
     text-align: center;
-    background-color: aquamarine;
-    background-image: url('https://i.redd.it/v37a2sz3cjq11.jpg');
+    background-color:rgb(182, 167, 139);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -16,9 +15,6 @@ body{
 ul{
     display: table;
     margin: 0 auto;
-}
-.estilolista{
-    list-style: none;
 }
 .fichas{
     list-style: none;
