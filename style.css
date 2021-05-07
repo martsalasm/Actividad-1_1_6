@@ -1,5 +1,9 @@
 body{
     text-align: center;
+    background-color:rgb(182, 167, 139);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 #descripción{
     text-align: justify;
@@ -14,8 +18,24 @@ ul{
 }
 .fichas{
     list-style: none;
+    text-align: justify;
+    background-color: rgba(0, 0, 0, 0.445);
+    width:500px;
 }
 .aInicio{
     box-sizing: border-box;
     float: right;
+}
+.fotos{
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+.texto{
+    margin-bottom: 10px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    outline-color: yellow;
+    background-color: rgba(0, 0, 0, 0.753);
+    width:inherit;
 }
