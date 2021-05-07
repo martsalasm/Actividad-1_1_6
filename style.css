@@ -19,6 +19,7 @@ ul{
 }
 .fichas{
     list-style: none;
+    text-align: justify;
 }
 .aInicio{
     box-sizing: border-box;
