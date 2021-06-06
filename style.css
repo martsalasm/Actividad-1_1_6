@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color:rgb(182, 167, 139);
+    background-color:burlywood;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -19,7 +19,7 @@ ul{
 .fichas{
     list-style: none;
     text-align: justify;
-    background-color: rgba(0, 0, 0, 0.445);
+    background-color:rgb(207, 173, 129);
     width:500px;
 }
 .aInicio{
@@ -34,9 +34,8 @@ ul{
 .texto{
     margin-bottom: 10px;
     font-size: 25px;
-    color: rgb(255, 255, 255);
-    outline-color: yellow;
-    background-color: rgba(0, 0, 0, 0.753);
+    color:rgb(83, 62, 33);
+    background-color: rgba(0, 0, 0, 0);
     width:inherit;
 }
 footer{
