@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Formulario de contacto</title>
+    <link rel="stylesheet" href="Styleformulario.css">
+    <script defer src="formularioscript.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+<div class="contact-section">
+  <h1>Contáctanos</h1>
+  <div class="border"></div>
+  <form id="form" class="contact-form" action="index.html" method="GET">
+    <p>Ingresa tu nombre</p>
+    <input type="text" id="nombre" class="contact-form-text" placeholder="Juan" required >
+    <p>Tu correo</p>
+    <input type="email" id="correo" class="contact-form-text" placeholder="Juan98@gmail.com" required>
+    <p>Tu número de teléfono</p>
+    <input type="text" id="telefono" class="contact-form-text" placeholder="911234567" required >
+    <p>Tu mensaje!</p>
+    <textarea class="contact-form-text" id="mensaje" placeholder="Escríbenos aquí" required></textarea>
+    <button type="submit" class="contact-form-btn">Envíar</button>
+    <button type="reset" class="contact-form-btn">Limpiar valores</button>
+  </form>
+</div>
+
+
+  </body>
+</html>
